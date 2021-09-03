@@ -14,9 +14,7 @@ Build >> Project
 ```
 
 <div>
-<img src="https://github.com/abdulbasitha/BLOOD-BANK-APP-IOS/blob/master/ASSESTS/1.png" width="30%" height="30%" >
-<img src="https://github.com/abdulbasitha/BLOOD-BANK-APP-IOS/blob/master/ASSESTS/2.png" width="30%" height="30%">
-<img src="https://github.com/abdulbasitha/BLOOD-BANK-APP-IOS/blob/master/ASSESTS/3.png" width="30%" height="30%">
+<img src="https://github.com/abdulbasitha/PokedexApp-IOS/blob/master/ASSESTS/1.png" width="30%" height="30%" >
 </div>
 
 
